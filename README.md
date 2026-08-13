@@ -1,20 +1,12 @@
 <h1 align="center">👋 Hi, I'm Beni</h1>
-<h3 align="center">山东华宇工学院 · 信息工程学院 | 机器人 & 机械设计爱好者 硬件电路设计爱好者</h3>
+<h3 align="center">山东某神秘学院 | 机器人 & 机械设计爱好者 硬件电路设计爱好者</h3>
 
-<p align="center">
-  <img alt="School" src="https://img.shields.io/static/v1?label=School&message=%E5%B1%B1%E4%B8%9C%E5%8D%8E%E5%AE%87%E5%B7%A5%E5%AD%A6%E9%99%A2&color=4B8BBE"/>
-  <img alt="Major" src="https://img.shields.io/static/v1?label=Major&message=%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2&color=green"/>
-  <img alt="Robot" src="https://img.shields.io/static/v1?label=Robot&message=8DOF%20Serial%20Leg&color=FF6F00"/>
-  <img alt="CAD" src="https://img.shields.io/static/v1?label=CAD&message=SolidWorks&color=red"/>
-  <img alt="Motor" src="https://img.shields.io/static/v1?label=Motor&message=RS02&color=blueviolet"/>
-  <img alt="Foot" src="https://img.shields.io/static/v1?label=Foot&message=Unitree%20GO2&color=9CF"/>
-</p>
 
 ---
 
 ## 🦾 我在做什么
 
-- **16DOF 串联足机器人** 机械设计（SolidWorks 源文件，欢迎交流指正）
+- **16DOF 串联足机器人** 26赛季的机械设计（SolidWorks 源文件，欢迎交流指正） 27赛季的ji'xie'you
 - 电源降压模块设计中~~
 
 
@@ -26,12 +18,12 @@
 | 🔩 电机与执行 | 灵足 RS02、无刷电机转接 |
 | 🤖 机器人 | 足式机器人、串联机构、机电一体化 |
 | 💻 编程 | 嵌入式 C、MATLAB（学习ing） |
-| 🔧 硬件 | 灵足 RS02 电机、宇树 GO2 足端、同步带传动、电机转接件、主控板 |
+| 🔧 硬件 | 小电脑 odin1的电源降压模块 |
 
 ## 📫 联系我
 
 - QQ：`3070940094`
-- WX：DouSFJade
+- WX：`DouSFJade`
 ---
 
 <p align="center"><i>SW 文件如有报错或警告（O_o）欢迎批评指正，一起交流共同进步！</i></p>
