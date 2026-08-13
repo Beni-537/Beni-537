@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hi, I'm Beni</h1>
-<h3 align="center">山东某神秘学院 | 机器人 & 机械设计爱好者 硬件电路设计爱好者 O_o</h3>
+<h3 align="center">山东某神秘学院 | 机器人 & 硬件电路设计爱好者 机械设计爱好者  O_o</h3>
 
 <p align="center">
-  <img alt="Galgame" src="https://img.shields.io/static/v1?label=Galgame&message=%E5%93%AA%E9%87%8C%E6%9C%89%E5%A5%BD%E7%8E%A9%E7%9A%84%EF%BC%9F&color=ff69b4"/>
+  <img alt="机械设计" src="https://img.shields.io/static/v1?label=%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1&message=Mechanical%20Design&color=orange"/>
+  <img alt="硬件电路设计" src="https://img.shields.io/static/v1?label=%E7%A1%AC%E4%BB%B6%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1&message=Hardware&color=00bfff"/>
+  <img alt="足式机器人" src="https://img.shields.io/static/v1?label=%E8%B6%B3%E5%BC%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&message=Legged%20Robot&color=blueviolet"/>
+  <img alt="编程" src="https://img.shields.io/static/v1?label=%E7%BC%96%E7%A8%8B&message=Programming&color=brightgreen"/>
 </p>
 
 ---
@@ -18,11 +21,9 @@
 | 分类 | 内容 |
 | --- | --- |
 | 🏗 机械设计 | SolidWorks、16自由度串联轮足装配体建模|
+| 🔧 硬件 | 小电脑 odin1的电源降压模块 分电板  |
 | 🤖 机器人 | 足式机器人、串联机构、机电一体化 |
 | 💻 编程 | 嵌入式 C、MATLAB（学习ing） |
-| 🔧 硬件 | 小电脑 odin1的电源降压模块 |
-| 🔩 电机与执行 | 灵足 RS02、无刷电机转接 |
-
 ## 📫 联系我
 
 - QQ：`3070940094`
