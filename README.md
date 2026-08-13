@@ -2,7 +2,7 @@
 <h3 align="center">山东某神秘学院 | 机器人 & 硬件电路设计爱好者 机械设计爱好者  O_o</h3>
 
 <p align="center">
-  <img alt="机械设计" src="https://img.shields.io/static/v1?label=%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1&message=Mechanical%20Design&color=orange"/>
+  <img alt="机械设计" src="https://img.shields.io/static/v1?label=%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1&message=SolidWorks&color=orange"/>
   <img alt="硬件电路设计" src="https://img.shields.io/static/v1?label=%E7%A1%AC%E4%BB%B6%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1&message=Hardware&color=00bfff"/>
   <img alt="足式机器人" src="https://img.shields.io/static/v1?label=%E8%B6%B3%E5%BC%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&message=Legged%20Robot&color=blueviolet"/>
   <img alt="编程" src="https://img.shields.io/static/v1?label=%E7%BC%96%E7%A8%8B&message=Programming&color=brightgreen"/>
