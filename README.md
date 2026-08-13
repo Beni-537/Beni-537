@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Beni</h1>
 <h3 align="center">山东某神秘学院 | 机器人 & 机械设计爱好者 硬件电路设计爱好者 O_o</h3>
 
+<p align="center">
+  <img alt="Galgame" src="https://img.shields.io/static/v1?label=Galgame&message=%E5%93%AA%E9%87%8C%E6%9C%89%E5%A5%BD%E7%8E%A9%E7%9A%84%EF%BC%9F&color=ff69b4"/>
+</p>
 
 ---
 
@@ -15,10 +18,10 @@
 | 分类 | 内容 |
 | --- | --- |
 | 🏗 机械设计 | SolidWorks、16自由度串联轮足装配体建模|
-| 🔩 电机与执行 | 灵足 RS02、无刷电机转接 |
 | 🤖 机器人 | 足式机器人、串联机构、机电一体化 |
 | 💻 编程 | 嵌入式 C、MATLAB（学习ing） |
 | 🔧 硬件 | 小电脑 odin1的电源降压模块 |
+| 🔩 电机与执行 | 灵足 RS02、无刷电机转接 |
 
 ## 📫 联系我
 
@@ -26,4 +29,4 @@
 - WX：`DouSFJade`
 ---
 
-<p align="center"><i>SW 文件如有报错或警告（O_o）欢迎批评指正，一起交流共同进步！</i></p>
+<p align="center"><i>开源的SW文件如有报错或警告（O_o）欢迎批评指正，一起交流共同进步！</i></p>
